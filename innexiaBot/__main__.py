@@ -75,14 +75,14 @@ def get_readable_time(seconds: int) -> str:
 INNEXIA_IMG = "https://telegra.ph/file/8b6f8f2bb4ff3912634c7.jpg"
 
 PM_START_TEXT = """
-`ʜᴇʏᴀ` 🤗 `ɪ ᴀᴍ` **ɪɴꜰᴏʙʏᴛᴇ ʙᴏᴛ** `ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜱᴜᴘᴇʀ ʙᴏᴛ`
+`ʜᴇʏᴀ` 🤗 `ɪ ᴀᴍ` **ALTERWEEBS** `ʏᴏᴜʀ ɢʀᴏᴜᴘ ꜱᴜᴘᴇʀ ʙᴏᴛ`
 `ɪ ᴀᴍ ᴠᴇʀʏ ꜰᴀꜱᴛ ᴀɴᴅ  ᴍᴏʀᴇ ᴇꜰꜰɪᴄɪᴇɴᴛ  ɪ ᴘʀᴏᴠɪᴅᴇ ᴀᴡᴇꜱᴏᴍᴇ  ꜰᴇᴀᴛᴜʀᴇꜱ ᴡʜɪᴄʜ ᴀ ᴏᴡɴᴇʀ ᴡɪʟʟ ʟᴏᴏᴋ ꜰᴏʀ  ꜰɪʟᴛᴇʀ ,ᴡᴀʀɴ ꜱʏꜱᴛᴇᴍ,ɴᴏᴛᴇ ᴋᴇᴇᴘɪɴɢ ꜱʏꜱᴛᴇᴍ ꜰʟᴏᴏᴅ!`
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text=" ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ᴄʜᴀᴛꜱ 🙂", url="http://t.me/Alterweebs?startgroup=true"),
+            text=" ᴀᴅᴅ ᴍᴇ ᴛᴏ ᴜʀ ᴄʜᴀᴛꜱ 🙂", url="http://t.me/Alterweebsbot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="ᴏɴᴡᴇʀ", url=f"http://t.me/Lohanjingg"),
